@@ -14,6 +14,7 @@
 
 # Basic
 baseURL = "https://thenhatat.github.io/"
+publishDir = "docs"
 languageCode = "vi"
 defaultContentLanguage = "vi"
 defaultContentLanguageInSubdir = true

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TheNhatAT&#39;s Blog</title>
+    <link>https://thenhatat.github.io/vi/</link>
+    <description>Recent content on TheNhatAT&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi</language>
+    <lastBuildDate>Sat, 26 Nov 2022 23:58:00 +0700</lastBuildDate><atom:link href="https://thenhatat.github.io/vi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lần đầu tiên viết blog</title>
+      <link>https://thenhatat.github.io/vi/life/first-blog/</link>
+      <pubDate>Sat, 26 Nov 2022 23:58:00 +0700</pubDate>
+      
+      <guid>https://thenhatat.github.io/vi/life/first-blog/</guid>
+      <description>Sau bao sự lười biếng và chây ì của bản thân, mình cũng đã viết được trang đầu tiên cho blog của mình (TheNhatAT&amp;rsquo;s blog). Chỉ là muốn ghi lại những kiến thức, kỷ niệm hay những thứ tào lao mà mình cho là thú vị. Just wanna give a kiss on your forehead, darling.</description>
+    </item>
+    
+  </channel>
+</rss>
