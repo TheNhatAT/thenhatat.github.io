@@ -4,7 +4,7 @@ slug: "first-blog"
 date:  "2022-11-26T23:58:00+07:00"
 categories:
 - life
-autoThumbnailImage:true
+autoThumbnailImage: true
 thumbnailImagePosition: left
 metaAlignment: center
 ---

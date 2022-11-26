@@ -39,3 +39,5 @@ public
 
 # tmp
 code/.tmp
+
+.hugo_build.lock

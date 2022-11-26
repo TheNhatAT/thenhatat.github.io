@@ -238,8 +238,8 @@ url = "/#about"
 
 # Customize copyright value "© 2016 <CUSTOMIZATION>. All Rights Reserved"
 [params.footer]
-copyright = "<a href=\"https://github.com/dominhhai\">Do Minh Hai</a>"
+copyright = "<a href=\"https://github.com/thenhatat\">Nguyen The Nhat</a>"
 
 # 404 not found page
 [params.p404]
-coverImage = "//res.cloudinary.com/dominhhai/image/upload/404.png"
+coverImage = "//res.cloudinary.com/thenhatat/image/upload/404.png"
