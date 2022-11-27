@@ -54,7 +54,7 @@ archive = "archives"
 # Author Configuration
 [author]
 name = "Nguyen The Nhat"
-bio = "Software Engineer<br>Love, Live, Code"
+bio = "Software Engineer - Love, Live, Code"
 job = "Junior Software Developer"
 location = "Vietnam"
 # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
